@@ -11,5 +11,7 @@ Change the
 | RAM | Corsair Vengeance (2x32 GB) 64 GB DDR4 RAM |
 | GPU | ASUS AMD Radeon RX 6600 8 GB VRAM |
 
-##Important
+## Important
 Check the entire config.plist file to ensure it will work with your setup and generate your SMBIOS data (iMac19,1).
+
+Works everything OOB!
